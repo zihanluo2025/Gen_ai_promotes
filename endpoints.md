@@ -1,0 +1,13 @@
+Write an Express.js REST API endpoint that:
+- Handles POST requests to /api/users
+- Accepts JSON with fields: username, email, age
+- Validates that all fields are present and are the correct type
+- Validates that age is between 18 and 120
+- Validates that email is in proper format
+- Returns appropriate HTTP status codes (201 for success, 400 for validation errors)
+- Uses async/await syntax
+- Includes comprehensive error handling with try-catch blocks
+- Returns descriptive error messages in JSON format for validation failures
+- Follows JavaScript naming conventions (camelCase)
+- Includes JSDoc comments
+- Uses a validation library like express-validator or joi
