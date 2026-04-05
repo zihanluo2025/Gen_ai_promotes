@@ -1,4 +1,4 @@
-# AI Prompt Toolkit – Prompt Engineering & Productivity Collection
+# AI Prompt Toolkit 
 
 ## Overview
 
@@ -6,7 +6,7 @@ This repository is a curated collection of **AI prompts, workflows, and practica
 
 It focuses on structured prompt design, task decomposition, and real-world usage scenarios, including system design, coding, documentation, and problem-solving.
 
----
+
 
 ##  Objectives
 
@@ -16,7 +16,7 @@ It focuses on structured prompt design, task decomposition, and real-world usage
 - Document real-world use cases and workflows  
 - Develop a systematic approach to interacting with LLMs  
 
----
+
 
 
 ## Project Structure
